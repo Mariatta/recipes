@@ -14,5 +14,7 @@ Recipes I want to try
 
 - Apple pie
 
-- `Snickerdoodlle cookies <https://sallysbakingaddiction.com/soft-thick-snickerdoodles-in-20-minutes/>`_
+- Snickerdoodlle cookies: https://sallysbakingaddiction.com/soft-thick-snickerdoodles-in-20-minutes/
+
+- Perogies from scratch: https://www.allrecipes.com/recipe/84706/grandmas-polish-perogies/
 
